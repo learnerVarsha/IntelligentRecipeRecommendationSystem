@@ -30,6 +30,10 @@ These can be installed using the provided `requirements.txt` file.
 
 1. Clone the repository
 
+    ```bash
+    git clone https://github.com/learnerVarsha/IntelligentRecipeRecommendationSystem.git
+    ```
+
 2. Navigate to the project directory:
 
 3. Create a virtual environment (optional but recommended):
