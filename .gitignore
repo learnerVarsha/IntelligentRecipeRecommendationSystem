@@ -1,0 +1,5 @@
+# Virtual environment
+myenv/
+venv/
+.env/
+RAW_recipes.csv
